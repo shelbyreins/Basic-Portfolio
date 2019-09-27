@@ -1,4 +1,4 @@
-# README Basic-Portfolio
+# Basic-Portfolio
 
 ## Technologies Used
 - HTML 
@@ -7,3 +7,12 @@
 - GitHub
 
 ## Summary
+First portfolio
+
+## Visuals
+
+![About](assets/images/about.png)
+
+![Portfolio](assets/images/portfolio.png)
+
+![Contact](assets/images/contact.png)
